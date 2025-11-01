@@ -13,6 +13,6 @@
 
 | Роль | Имя | Email |
 |------|-----|-------|
-| Менеджер проекта | Иван Петров | ivan.petrov@setcom.ru |
-| Lead QA Engineer | Мария Сидорова | maria.sidorova@setcom.ru |
-| DevOps инженер | Алексей Козлов | alexey.kozlov@setcom.ru |
+| Менеджер проекта | Мария Сидорова | maria.sidorova.mail.ru |
+| Lead QA Engineer | Николай Николаев | nikolay.nikolayev@mail.ru |
+| DevOps инженер | Иван Иванович | ivan.ivanovich@mail.ru |
