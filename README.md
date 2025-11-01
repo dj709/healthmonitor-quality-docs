@@ -16,4 +16,3 @@
 | Менеджер проекта | Иван Петров | ivan.petrov@setcom.ru |
 | Lead QA Engineer | Мария Сидорова | maria.sidorova@setcom.ru |
 | DevOps инженер | Алексей Козлов | alexey.kozlov@setcom.ru |
-| Разработчик | Дмитрий Волков | dmitry.volkov@setcom.ru |
